@@ -10,4 +10,4 @@ My socials are attached below, but I don't really post, I might break that habit
 
 - [Snap](https://snapchat.com/t/XhxZE40d)
 - [Insta @nicolasf3rrari](https://instagram.com/nicolasf3rrari?igsh=YTQwZjQ0Nml0OA==)
-![Another Image][[(https://github.com/Nico1asF/Nico1asF.github.io/blob/main/path-to-another-image.jpg)](https://github.com/Nico1asF/Nico1asF.github.io/blob/main/IMG_9924.jpg?raw=true)](https://github.com/Nico1asF/Nico1asF.github.io/blob/main/IMG_9924.jpg?raw=true)
+![Profile Picture](https://github.com/Nico1asF/Nico1asF.github.io/blob/main/IMG_9924.jpg?raw=true)
