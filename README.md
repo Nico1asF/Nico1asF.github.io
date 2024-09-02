@@ -4,6 +4,10 @@ Hello class, I'm Nicolas, and this is my last quarter at UCSB. I am a Psychologi
 
 I'm fascinated by the intersection of neuroscience and digital media, and am considering a career path in cognitive science research or media psychology. I'm excited to make the most of my final quarter here and continue exploring the endless possibilities at the phenomenological crossroads of psychology, brain science, and media design.
 
+# p5.js Animation
+
+Check out the live p5.js animation: [View Animation](https://Nico1asF.github.io/p5js-animation/)
+
 My socials are attached below, but I don't really post, I might break that habit in the near future :)
 
 ## Connect with me:
