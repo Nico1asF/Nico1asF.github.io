@@ -3,20 +3,71 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>p5.js Animation</title>
+    <title>p5.js Animation and About Me</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
     <style>
         body {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
             background-color: #1d1f21;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+        }
+
+        #about-me {
+            max-width: 600px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #about-me h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        #profile-pic {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            margin-bottom: 20px;
+        }
+
+        #p5-container {
+            margin-top: 20px;
+        }
+
+        a {
+            color: #4db8ff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
+    <div id="about-me">
+        <h1>About Me</h1>
+        <img id="profile-pic" src="https://github.com/Nico1asF/Nico1asF.github.io/blob/main/IMG_9924.jpg?raw=true" alt="Profile Picture">
+        <p>Hello class, I'm Nicolas, and this is my last quarter at UCSB. I am a Psychological and Brain Sciences major, while also completing the Media Art and Design Minor--which is why I'm in this class. One of the reasons why I'm completing this minor is to establish more creative outlets for myself, especially since earlier this year part of my main outlet, my voice had been stunted by some unexpected health issues. In my free time, I like to cook, exercise, make music, and enjoy the outdoors oceanside while I'm still in the area. One of the last things on my UCSB bucket list is to go free diving for lobster and sea urchin.</p>
+
+        <p>I'm fascinated by the intersection of neuroscience and digital media, and am considering a career path in cognitive science research or media psychology. I'm excited to make the most of my final quarter here and continue exploring the endless possibilities at the phenomenological crossroads of psychology, brain science, and media design.</p>
+
+        <h1>p5.js Animation</h1>
+        <p>Check out my live p5.js animation: <a href="https://Nico1asF.github.io/p5js-animation/" target="_blank">View Animation</a></p>
+        <p>(<a href="https://raw.githack.com/Nico1asF/Nico1asF.github.io/main/index.html" target="_blank">Raw GitHack Link</a>)</p>
+
+        <h1>Connect with me:</h1>
+        <p><a href="https://snapchat.com/t/XhxZE40d" target="_blank">Snap</a> | <a href="https://instagram.com/nicolasf3rrari?igsh=YTQwZjQ0Nml0OA==" target="_blank">Insta @nicolasf3rrari</a></p>
+    </div>
+
+    <div id="p5-container"></div>
+
     <script src="sketch.js"></script>
 </body>
 </html>
